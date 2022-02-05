@@ -1,2 +1,4 @@
 terraform.log
 .ssh
+bybit/.terraform*
+bybit/terraform*
